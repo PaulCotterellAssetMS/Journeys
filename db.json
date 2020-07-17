@@ -216,41 +216,6 @@
       "eventDate": "2018-12-10 08:58:34",
       "latitude": "52.588054",
       "longitude": "1.274245"
-    },
-    {
-      "locationId": 31,
-      "location": "176 Ranelagh Road, Ipswich",
-      "eventDate": "2018-12-10 08:58:39",
-      "latitude": "52.588584",
-      "longitude": "1.274211"
-    },
-    {
-      "locationId": 32,
-      "location": "176 Ranelagh Road, Ipswich",
-      "eventDate": "2018-12-10 08:59:39",
-      "latitude": "52.594736",
-      "longitude": "1.274789"
-    },
-    {
-      "locationId": 33,
-      "location": "176 Ranelagh Road, Ipswich",
-      "eventDate": "2018-12-10 09:02:38",
-      "latitude": "52.600474",
-      "longitude": "1.278009"
-    },
-    {
-      "locationId": 34,
-      "location": "176 Ranelagh Road, Ipswich",
-      "eventDate": "2018-12-10 09:03:15",
-      "latitude": "52.601365",
-      "longitude": "1.281899"
-    },
-    {
-      "locationId": 35,
-      "location": "176 Ranelagh Road, Ipswich",
-      "eventDate": "2018-12-10 09:03:42",
-      "latitude": "52.601609",
-      "longitude": "1.285389"
     }
   ]
 }
